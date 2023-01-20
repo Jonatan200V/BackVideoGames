@@ -19,6 +19,7 @@
     "graphql": "16.6.0",
     "node-fetch": "^3.3.0",
     "pg": "8.8.0",
+    "pg-hstore": "^2.3.4",
     "sequelize": "6.27.0",
     "stripe": "^11.5.0"
   }
